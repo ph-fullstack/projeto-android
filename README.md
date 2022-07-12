@@ -1,6 +1,6 @@
 Site criado no desafio 10 no curso HTML5 e CSS3 no Curso em Vídeo, com o propósito de praticar o que foi estudado
 
-# --------------- Conteúdos Abordados --------------
+# Conteúdos Abordados
 
 - Multimídias
 - Semântica
